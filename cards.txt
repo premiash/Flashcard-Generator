@@ -2,3 +2,37 @@
 {front: Abbrevation for UK, back: United Kingdom},
 
 {front: ________ is the acronym for Asynchronous JavaScript and XML, back: Ajax},
+
+{front: Abbrevation for NY, back: New York},
+
+Basic Card
+
+Cloze Card
+
+Basic Card
+
+Basic Card
+
+Basic Card
+
+Basic Card
+
+undefined
+
+undefined
+
+Basic Card
+
+Basic Card
+
+{front: Abbrevation of FBI, back: Federal Bereau of Investigation},
+
+Cloze Card
+
+{front: ________ is the acronym of Federal Bereau of Investigation, back: FBI},
+
+Cloze-Deleted flashcards
+
+Cloze-Deleted flashcards
+
+{front: ________, back: },
