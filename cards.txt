@@ -1,0 +1,4 @@
+{front: Abbrevation for USA, back: United States of America}, {front: ________ is the acronym for Asynchronous JavaScript and XML, back: Ajax}, {front: Abbrevation for UK, back: United Kingdom},0
+{front: Abbrevation for UK, back: United Kingdom},
+
+{front: ________ is the acronym for Asynchronous JavaScript and XML, back: Ajax},
