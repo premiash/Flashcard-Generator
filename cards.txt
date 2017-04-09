@@ -1,38 +1,12 @@
-{front: Abbrevation for USA, back: United States of America}, {front: ________ is the acronym for Asynchronous JavaScript and XML, back: Ajax}, {front: Abbrevation for UK, back: United Kingdom},0
-{front: Abbrevation for UK, back: United Kingdom},
 
-{front: ________ is the acronym for Asynchronous JavaScript and XML, back: Ajax},
+Create Basic flashcard
+{front: Who is the current President of USA?, back: Donald Trump},
 
-{front: Abbrevation for NY, back: New York},
+Create Cloze-Deleted flashcard
+{front: ________ is the first president of USA, back: George Washington},
 
-Basic Card
+Create Basic flashcard
+{front: Who is the first president of USA, back: George Washington},
 
-Cloze Card
-
-Basic Card
-
-Basic Card
-
-Basic Card
-
-Basic Card
-
-undefined
-
-undefined
-
-Basic Card
-
-Basic Card
-
-{front: Abbrevation of FBI, back: Federal Bereau of Investigation},
-
-Cloze Card
-
-{front: ________ is the acronym of Federal Bereau of Investigation, back: FBI},
-
-Cloze-Deleted flashcards
-
-Cloze-Deleted flashcards
-
-{front: ________, back: },
+Create Basic flashcard
+{front: Who is the first president of USA, back: George Washington},
